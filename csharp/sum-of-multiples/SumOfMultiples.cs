@@ -5,6 +5,18 @@ public static class SumOfMultiples
 {
     public static int Sum(IEnumerable<int> multiples, int max)
     {
-        throw new NotImplementedException("You need to implement this function.");
+        int sum = 0;
+        for (int i = 1; i < max; i++)
+        {
+            foreach (int num in multiples)
+            {
+                if (i % num == 0)
+                {
+                    sum += i;
+                    break;
+                }
+            }
+        }
+        return sum;
     }
 }

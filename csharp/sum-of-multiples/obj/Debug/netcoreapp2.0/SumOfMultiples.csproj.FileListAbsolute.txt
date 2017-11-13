@@ -1,0 +1,13 @@
+/Users/addieland/ada/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/addieland/ada/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/addieland/ada/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/addieland/ada/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.deps.json
+/Users/addieland/ada/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.runtimeconfig.json
+/Users/addieland/ada/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.runtimeconfig.dev.json
+/Users/addieland/ada/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.dll
+/Users/addieland/ada/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.pdb
+/Users/addieland/ada/exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.csproj.CoreCompileInputs.cache
+/Users/addieland/ada/exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.AssemblyInfoInputs.cache
+/Users/addieland/ada/exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.AssemblyInfo.cs
+/Users/addieland/ada/exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.dll
+/Users/addieland/ada/exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.pdb
